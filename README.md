@@ -17,7 +17,7 @@ Toxic Deluge;2
 Berserk;4
 Forest;20
 
-Para mais cartas entre em:"http://www.ligamagic.com.br/?view=home"(se não conhecer outras cartas digite palavras aleatorias na busca do site).
+Para mais cartas entre em:"http://www.ligamagic.com.br/?view=home" (se não conhecer outras cartas digite palavras aleatorias na busca do site).
 
 Execute o codigo e abra o menu selecione "abrir" e selecione o .txt com as cartas e aguarde a execução e pronto é so selecionar na comboox qual carta você dejesa visualizar
 
